@@ -1,0 +1,10 @@
+.card__wrapper__container {
+  width: 18rem;
+  height: 500px;
+}
+
+@media only screen and (max-width: 600px) {
+  .card__wrapper__container {
+    width: 22rem;
+  }
+}
